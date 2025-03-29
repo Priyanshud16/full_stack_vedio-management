@@ -12,7 +12,7 @@ const VideoUpload = () => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
-  // Handle input change
+ 
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData((prev) => ({
