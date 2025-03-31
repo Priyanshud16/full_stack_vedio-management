@@ -98,9 +98,6 @@ npm start
 - Use **MongoDB Atlas** for cloud database hosting.
 
 ## Demo & Submission
-- **GitHub Repository:** [Insert Link Here]
-- **Video Walkthrough:** [Insert Video Link Here]
+- **Video Walkthrough:** (https://drive.google.com/file/d/1Cb8OluZby0Uar7LLB-gEUHPc_alWGkdp/view?usp=sharing)
 
-## License
-This project is licensed under the **MIT License**.
 
